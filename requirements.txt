@@ -1,0 +1,10 @@
+langchain
+langchain-community
+fastapi
+uvicorn
+pdfplumber
+sentence-transformers
+faiss-cpu
+chromadb
+python-multipart
+ollama
